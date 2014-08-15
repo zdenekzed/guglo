@@ -1,0 +1,336 @@
+body {
+	width: 100%;
+}
+html.js input.form-autocomplete {
+  background-position: 5px 7px; /* LTR */
+}
+html.js input.throbbing {
+  background-position: 5px -13px; /* LTR */
+}
+.node_pin_page .right .item-list ul,
+.node_pin_page .right ul.menu
+{
+  padding-right: 10px;
+  padding-left: 0px;
+}
+
+.left {
+	float: right;
+}
+.right {
+	float: left;
+}
+.header {
+	background-position: right bottom;
+}
+.header .top .center {
+	float: right;
+	padding-right: 60px;
+	padding-left: 0px;
+}
+.stwrapper{
+display:none;
+}
+.header .top ul.menu li {
+	float: right;
+}
+.soc a {
+	float: right;
+	margin-right: 5px;
+	margin-left: 0px;
+}
+.header .nav .center {
+	float: right;
+	padding-right: 15px;
+	padding-left: 0px;
+}
+.header .nav .or-b {
+	float: left;
+	padding-left: 12px;
+	padding-right: 6px;
+}
+.header .nav ul.menu .expanded a {
+	background-position: left center;
+}
+.header .nav ul.menu li {
+	float: right;
+}
+.header .nav ul.menu ul.menu li {
+	margin-right: 13px;
+	margin-left: 0px;
+}
+.header .nav .search-b {
+	background-image: url(../img/search-h-bg-g-r.png);
+	float: left;
+}
+.header .nav .search-b input[type="text"] {
+	margin-left: 0px;
+	margin-right: 5px;
+}
+.pin_box,
+.board_box 
+{
+	float: right;
+}
+.pin_box .stat span {
+	margin-left: 16px;
+	margin-right: 0px;
+}
+.pin_box .user img,
+.pin_box .comment img
+{
+	float: right;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.pin_box .action a {
+	padding-left: 10px;
+	padding-right: 25px;
+}
+.pin_box .action a.repin, .pin_box .action a.like-button, .pin_box .action a.comment {
+  padding-left: 10px;
+	background-position: right top;
+	padding-right: 25px;
+}
+.pin_box .action a.comment {
+	padding-left: 10px;
+	padding-right: 25px;
+}
+.pin_box .action a.repin {
+	padding-left: 0px;
+}
+.top-profile-block .center {
+	float: right;
+	margin-right: 18px;
+	margin-left: 0px;
+}
+.top-profile-block .stat a {
+	margin-left: 15px;
+	margin-right: 0px;
+}
+.top-profile-block .stat span {
+	margin-left: 15px;
+	margin-right: 0px;
+}
+.b_thumbs {
+float: right;
+}
+.actions a  {
+	margin-left: 6px;
+	margin-right: 0px;
+}
+.pin-node .actions {
+	float: left;
+}
+.user-picture img {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.pin-node .stat a {
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.actions a img {
+	margin-left: 4px;
+	margin-right: 0px;
+}
+.pin-node .actions a {
+	margin-right: 8px;
+	margin-left: 0px;
+}
+.pin-node .field-type-taxonomy-term-reference div.field-item {
+	padding-right: 5px;
+	padding-left: 0px;
+}
+.comments .links {
+	float: left;
+}
+.comments .comment .com {
+	margin-right: 60px;
+	margin-left: 0px;
+}
+.comment-form input[type="submit"] {
+	margin-right: 10px;
+	margin-left: 0px;
+}
+.comment-form .form-actions {
+	text-align: left;
+}
+.pin-block-category,
+.pin-block-originally,
+.pin-block-board
+{
+	float: right;
+}
+.pin-block-category img,
+.pin-block-originally img,
+.pin-block-board img
+{
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.pin-block-category .last img,
+.pin-block-originally .last img,
+.pin-block-board .last img
+{
+	margin-left: 0px;
+}
+.blog img {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.blog .act .links li {
+	float: right;
+}
+.blog .act .links li a {
+	margin-left: 6px;
+	margin-right: 0px;
+}
+.blog .block-left {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #d6e0eb;
+	border-right: none;
+	margin-left: 10px;
+	padding-left: 10px;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+.blog .block-right {
+	margin-right: 10px;
+	padding-right: 10px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #d6e0eb;
+	border-left: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+.tab-block .tabs a,
+.action-page-links a
+{
+	margin-left: 6px;
+	margin-right: 0px;
+}
+.action-page-links a
+{
+	margin-left: 0px;
+}
+.rate-like-block {
+  float: right;
+}
+.rate-like-block .rate-widget .rate-button{
+	background-position: 5px 4px;
+}
+fieldset.flags legend {
+  float: left;
+}
+html.js fieldset.collapsible .fieldset-legend, 
+html.js fieldset.collapsed .fieldset-legend 
+{
+  background-position: -50px 0px;
+}
+fieldset.flags legend img { 
+  margin: 0 2px 0 5px;
+}
+fieldset.flags input[type="submit"] {
+	margin-right: 10px;
+	margin-left: 0px;
+}
+.action-page-links {
+float: left;
+}
+.scroll_top {
+	left: 10px;
+	right: auto;
+	bottom: 45px;
+}
+.scroll_top a {
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.scroll_top img {
+ margin: -3px 0 0 5px;
+ right: 5px;
+}
+.close_icon {
+    left: 20px; right: auto;
+}
+.at-term-entry,
+.at-term-entry-bacc
+{
+  float: right;
+}
+.at-add-btn,
+.at-add-btn-bacc {
+  margin: 6px 10px 20px 0px;
+}
+.board_box .title .e {
+	background-image: url(../img/pr-2.png);
+	background-repeat: repeat-y;
+	width: 20px;
+	height: 28px;
+	position: absolute;
+	left: 0px;
+	right: auto;
+	top: 0px;
+}
+
+/**************************************************************************************************/
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+/*  body {
+	  overflow: hidden;
+	  width: 100%;
+  } */
+  .header .top .center {
+	  float: left;
+	  padding-right: 0px;
+  }
+  .top-profile-block .right  {
+	  float: right;
+	  margin-right: 10px;
+  }
+  .top-profile-block .center  {
+	  margin-right: 0px;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .header .top .center {
+	  float: left;
+	  padding-right: 0px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .top-content-block .right {
+    float: right;
+  }
+  .header .top .left {
+	  padding-right: 0px;
+  }
+  .soc a.soc1,
+  .soc a.soc2,
+  .soc a.soc3,
+  .soc a.soc4,
+  .soc a.soc5,
+  .soc a.soc6,
+  .soc a.soc7,
+  .soc a.soc8
+  {
+	  margin-left: 0px;
+  }
+  .header .top .center {
+	  text-align: center;
+	  padding: 10px 20px 10px 0px;
+  }
+  .top-profile-block .center  {
+	  margin-right: 0px;
+	  margin-left: 0px;
+  }
+  .top-profile-block .right  {
+	  float: right;
+	  margin-right: 0px;
+  }
+}

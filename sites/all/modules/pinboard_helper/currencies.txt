@@ -1,0 +1,146 @@
+AED|AED - United Arab Emirates Dirham - د.إ
+AFN|AFN - Afghan Afghani - Af
+ANG|ANG - Netherlands Antillean Guilder - NAf.
+AOA|AOA - Angolan Kwanza - Kz
+ARM|ARM - Argentine Peso Moneda Nacional - m$n
+ARS|ARS - Argentine Peso - AR$
+AUD|AUD - Australian Dollar - AU$
+AWG|AWG - Aruban Florin - Afl.
+AZN|AZN - Azerbaijanian Manat - man.
+BAM|BAM - Bosnia-Herzegovina Convertible Mark - KM
+BBD|BBD - Barbadian Dollar - Bds$
+BDT|BDT - Bangladeshi Taka - Tk
+BGN|BGN - Bulgarian lev - лв
+BHD|BHD - Bahraini Dinar - BD
+BIF|BIF - Burundian Franc - FBu
+BMD|BMD - Bermudan Dollar - BD$
+BND|BND - Brunei Dollar - BN$
+BOB|BOB - Bolivian Boliviano - Bs
+BRL|BRL - Brazilian Real - R$
+BSD|BSD - Bahamian Dollar - BS$
+BTN|BTN - Bhutanese Ngultrum - Nu.
+BWP|BWP - Botswanan Pula - BWP
+BYR|BYR - Belarusian ruble - руб.
+BZD|BZD - Belize Dollar - BZ$
+CAD|CAD - Canadian Dollar - CA$
+CDF|CDF - Congolese Franc - CDF
+CHF|CHF - Swiss Franc - Fr.
+CLP|CLP - Chilean Peso - CL$
+CNY|CNY - Chinese Yuan Renminbi - CN¥
+COP|COP - Colombian Peso - $
+CRC|CRC - Costa Rican Colón - ¢
+CUC|CUC - Cuban Convertible Peso - CUC$
+CUP|CUP - Cuban Peso - CU$
+CVE|CVE - Cape Verdean Escudo - CV$
+CZK|CZK - Czech Republic Koruna - Kč
+DJF|DJF - Djiboutian Franc - Fdj
+DKK|DKK - Danish Krone - kr.
+DOP|DOP - Dominican Peso - RD$
+DZD|DZD - Algerian Dinar - DA
+EEK|EEK - Estonian Kroon - Ekr
+EGP|EGP - Egyptian Pound - EG£
+ERN|ERN - Eritrean Nakfa - Nfk
+ETB|ETB - Ethiopian Birr - Br
+EUR|EUR - Euro - €
+FJD|FJD - Fijian Dollar - FJ$
+FKP|FKP - Falkland Islands Pound - FK£
+GBP|GBP - British Pound Sterling - £
+GHS|GHS - Ghanaian Cedi - GH₵
+GIP|GIP - Gibraltar Pound - GI£
+GMD|GMD - Gambian Dalasi - GMD
+GNF|GNF - Guinean Franc - FG
+GTQ|GTQ - Guatemalan Quetzal - GTQ
+GYD|GYD - Guyanaese Dollar - GY$
+HKD|HKD - Hong Kong Dollar - HK$
+HNL|HNL - Honduran Lempira - HNL
+HRK|HRK - Croatian Kuna - kn
+HTG|HTG - Haitian Gourde - HTG
+HUF|HUF - Hungarian Forint - Ft
+IDR|IDR - Indonesian Rupiah - Rp
+ILS|ILS - Israeli New Shekel - ₪
+INR|INR - Indian Rupee - Rs
+IRR|IRR - Iranian Rial - ﷼
+ISK|ISK - Icelandic Króna - Ikr
+JMD|JMD - Jamaican Dollar - J$
+JOD|JOD - Jordanian Dinar - JD
+JPY|JPY - Japanese Yen - ¥
+KES|KES - Kenyan Shilling - Ksh
+KGS|KGS - Kyrgyzstani Som - сом
+KMF|KMF - Comorian Franc - CF
+KRW|KRW - South Korean Won - ₩
+KWD|KWD - Kuwaiti Dinar - KD
+KYD|KYD - Cayman Islands Dollar - KY$
+KZT|KZT - Kazakhstani tenge - тг.
+LAK|LAK - Laotian Kip - ₭N
+LBP|LBP - Lebanese Pound - LB£
+LKR|LKR - Sri Lanka Rupee - SLRs
+LRD|LRD - Liberian Dollar - L$
+LSL|LSL - Lesotho Loti - LSL
+LTL|LTL - Lithuanian Litas - Lt
+LVL|LVL - Latvian Lats - Ls
+LYD|LYD - Libyan Dinar - LD
+MAD|MAD - Moroccan Dirham - Dhs
+MDL|MDL - Moldovan leu - MDL
+MMK|MMK - Myanma Kyat - MMK
+MNT|MNT - Mongolian Tugrik - ₮
+MOP|MOP - Macanese Pataca - MOP$
+MRO|MRO - Mauritanian Ouguiya - UM
+MTP|MTP - Maltese Pound - MT£
+MUR|MUR - Mauritian Rupee - MURs
+MXN|MXN - Mexican Peso - $
+MYR|MYR - Malaysian Ringgit - RM
+MZN|MZN - Mozambican Metical - MTn
+NAD|NAD - Namibian Dollar - N$
+NGN|NGN - Nigerian Naira - ₦
+NIO|NIO - Nicaraguan Cordoba Oro - C$
+NOK|NOK - Norwegian Krone - Nkr
+NPR|NPR - Nepalese Rupee - NPRs
+NZD|NZD - New Zealand Dollar - NZ$
+PAB|PAB - Panamanian Balboa - B/.
+PEN|PEN - Peruvian Nuevo Sol - S/.
+PGK|PGK - Papua New Guinean Kina - PGK
+PHP|PHP - Philippine Peso - ₱
+PKR|PKR - Pakistani Rupee - PKRs
+PLN|PLN - Polish Złoty - zł
+PYG|PYG - Paraguayan Guarani - ₲
+QAR|QAR - Qatari Rial - QR
+RHD|RHD - Rhodesian Dollar - RH$
+RON|RON - Romanian Leu - RON
+RSD|RSD - Serbian Dinar - din.
+RUB|RUB - Russian Ruble - руб.
+SAR|SAR - Saudi Riyal - SR
+SBD|SBD - Solomon Islands Dollar - SI$
+SCR|SCR - Seychellois Rupee - SRe
+SDD|SDD - Old Sudanese Dinar - LSd
+SEK|SEK - Swedish Krona - kr
+SGD|SGD - Singapore Dollar - S$
+SHP|SHP - Saint Helena Pound - SH£
+SLL|SLL - Sierra Leonean Leone - Le
+SOS|SOS - Somali Shilling - Ssh
+SRD|SRD - Surinamese Dollar - SR$
+SRG|SRG - Suriname Guilder - Sf
+STD|STD - São Tomé and Príncipe Dobra - Db
+SYP|SYP - Syrian Pound - SY£
+SZL|SZL - Swazi Lilangeni - SZL
+THB|THB - Thai Baht - ฿
+TND|TND - Tunisian Dinar - DT
+TOP|TOP - Tongan Paʻanga - T$
+TRY|TRY - Turkish Lira - TL
+TTD|TTD - Trinidad and Tobago Dollar - TT$
+TWD|TWD - New Taiwan Dollar - NT$
+TZS|TZS - Tanzanian Shilling - TSh
+UAH|UAH - Ukrainian Hryvnia - грн.
+UGX|UGX - Ugandan Shilling - USh
+USD|USD - United States Dollar - $
+UYU|UYU - Uruguayan Peso - $U
+VEF|VEF - Venezuelan Bolívar Fuerte - Bs.F.
+VND|VND - Vietnamese Dong - đ
+VUV|VUV - Vanuatu Vatu - VT
+WST|WST - Samoan Tala - WS$
+XAF|XAF - CFA Franc BEAC - FCFA
+XCD|XCD - East Caribbean Dollar - EC$
+XOF|XOF - CFA Franc BCEAO - CFA
+XPF|XPF - CFP Franc - CFPF
+YER|YER - Yemeni Rial - YR
+ZAR|ZAR - South African Rand - R
+ZMK|ZMK - Zambian Kwacha - ZK
